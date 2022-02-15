@@ -2,8 +2,13 @@
 content_type: resource
 description: Sample questions from a student in the course with answers from the professor.
   Courtesy of Jooeun Ahn. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/665919b6c359810f3862691721836026_discussion_of_sy.pdf
+file: /media/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/665919b6c359810f3862691721836026_discussion_of_sy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: discussion_of_sy.pdf
 uid: 665919b6-c359-810f-3862-691721836026

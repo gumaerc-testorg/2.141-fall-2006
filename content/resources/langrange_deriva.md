@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the description of inertial mechanics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/348b81f73d5b6e1ab91526360097c39a_langrange_deriva.pdf
+file: /media/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/348b81f73d5b6e1ab91526360097c39a_langrange_deriva.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: langrange_deriva.pdf
 uid: 348b81f7-3d5b-6e1a-b915-26360097c39a

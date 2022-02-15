@@ -2,8 +2,13 @@
 content_type: resource
 description: Representative sample of student work in the Fall 2002 class. (Courtesy
   of Thomas Bowers. Used with permission.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/982aabf3360d00ca5cd1b28e887960d2_heatgun_final.pdf
+file: /media/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/982aabf3360d00ca5cd1b28e887960d2_heatgun_final.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: heatgun_final.pdf
 uid: 982aabf3-360d-00ca-5cd1-b28e887960d2
