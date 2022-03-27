@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9a04adf5-76eb-27f5-97a0-7e810f0f306a
 resourcetype: Document
 title: dcpmm_basics.pdf
 uid: 307d7151-ccf4-eba2-5289-e17da2a3fe56

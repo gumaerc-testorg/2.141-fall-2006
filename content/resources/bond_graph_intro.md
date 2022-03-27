@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: bond_graph_intro.pdf
 uid: 71ca8916-669d-0aa6-839c-e780db9f5288

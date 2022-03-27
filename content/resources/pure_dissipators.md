@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: pure_dissipators.pdf
 uid: ad24e2d6-b25f-ffe6-da35-5492359c03e3

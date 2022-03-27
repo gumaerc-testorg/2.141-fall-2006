@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9a04adf5-76eb-27f5-97a0-7e810f0f306a
 resourcetype: Document
 title: cable_hoist_2.pdf
 uid: 2595fea5-2076-7d3f-65a5-3f2e0a1c0bfe

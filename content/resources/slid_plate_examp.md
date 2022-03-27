@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: slid_plate_examp.pdf
 uid: 38357c2d-6044-7d50-f03d-a42a6c9433e0

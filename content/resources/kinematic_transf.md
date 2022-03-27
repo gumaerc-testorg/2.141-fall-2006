@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9a04adf5-76eb-27f5-97a0-7e810f0f306a
 resourcetype: Document
 title: kinematic_transf.pdf
 uid: 30191310-b956-3710-f9e0-058ce896c85e

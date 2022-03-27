@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9a04adf5-76eb-27f5-97a0-7e810f0f306a
 resourcetype: Document
 title: convection2.pdf
 uid: 4e457ff9-dacb-7759-6e2e-b27558495888

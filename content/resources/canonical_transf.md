@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9a04adf5-76eb-27f5-97a0-7e810f0f306a
 resourcetype: Document
 title: canonical_transf.pdf
 uid: 6cd8a8e6-8284-e4bd-35f1-b51c5fa63093

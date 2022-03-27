@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: bg_not.pdf
 uid: fd49a2f0-abad-ce43-d6d5-6b32bf944af4

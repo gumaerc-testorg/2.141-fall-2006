@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d3c65f49-3b76-6b3c-eb42-bf3de285892b
 resourcetype: Document
 title: som_use_definitn.pdf
 uid: 05a309cb-4774-f796-36ce-0d047d5b7a58

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 49a83ce3-91da-c005-bb57-57953045fd12
 resourcetype: Document
 title: armstrng2141finl.pdf
 uid: 597c2ca8-8b00-705c-2436-1fc904289cd2

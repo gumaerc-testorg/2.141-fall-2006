@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d38b2233-b06b-72ae-f9cd-b6f787754726
 resourcetype: Document
 title: discussion_of_sy.pdf
 uid: 665919b6-c359-810f-3862-691721836026

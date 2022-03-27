@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 49a83ce3-91da-c005-bb57-57953045fd12
 resourcetype: Document
 title: byl_2141_final.pdf
 uid: 9132279f-c5e7-e191-825a-d81df5cc85e4
