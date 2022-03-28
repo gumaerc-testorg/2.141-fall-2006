@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: d38b2233-b06b-72ae-f9cd-b6f787754726
 ---
@@ -10,26 +11,26 @@ uid: d38b2233-b06b-72ae-f9cd-b6f787754726
 Introduction and Review
 -----------------------
 
-Reading Assignment 1 ([PDF]({{< baseurl >}}/resources/reading_assign_1))
+Reading Assignment 1 ({{< resource_link d4002767-4e6a-8783-e0da-147c12b756e3 "PDF" >}})
 
-Discussion of System Order ([PDF]({{< baseurl >}}/resources/discussion_of_sy)) (Courtesy of Jooeun Ahn. Used with permission.)
+Discussion of System Order ({{< resource_link 665919b6-c359-810f-3862-691721836026 "PDF" >}}) (Courtesy of Jooeun Ahn. Used with permission.)
 
 Multiports
 ----------
 
-Reading Assignment 2 ([PDF]({{< baseurl >}}/resources/reading_assign_2))
+Reading Assignment 2 ({{< resource_link c1ba64e5-f467-d21e-db7f-d42ad27268bd "PDF" >}})
 
 Thermal Systems
 ---------------
 
-Reading Assignment 3 ([PDF]({{< baseurl >}}/resources/reading_assign_3))
+Reading Assignment 3 ({{< resource_link 0c6be861-a6ac-9ffd-21fa-b5a33e44ec45 "PDF" >}})
 
 Pourmovahed, A., and D. R. Otis. "Effects of Thermal Damping on the Dynamic Response of a Hydraulic Moto-Accumulator System." _Journal of Dynamic Systems, Measurement, and Control_ 106 (1984): 21-26.
 
 Nonlinear Mechanical Systems
 ----------------------------
 
-Reading Assignment 4 ([PDF]({{< baseurl >}}/resources/reading_assign_4))  
+Reading Assignment 4 ({{< resource_link 361d2397-8731-6b8a-2000-d918bf60ebcd "PDF" >}})  
 Modulated transformers, Lagrange's equations and a paper on interaction control.
 
 ### Impedance and Interaction Control
@@ -39,7 +40,7 @@ Hogan, Neville, and Stephen P. Buerger. "Impedance and Interaction Control." _Ro
 Transmission Lines and Wave-Like Behavior
 -----------------------------------------
 
-Reading Assignment 5 ([PDF]({{< baseurl >}}/resources/reading_assign_5))  
+Reading Assignment 5 ({{< resource_link 30f2cb98-7aa3-6634-a483-0f14a6cffd9e "PDF" >}})  
 On wave-like and diffusive behavior.
 
 ### Macro/Micro Controller
@@ -58,7 +59,7 @@ Dunn's 1969 paper on equivalent network analysis of web conveyors and their wave
 Matter Transport
 ----------------
 
-Reading Assignment 6 ([PDF]({{< baseurl >}}/resources/reading_assign_6))  
+Reading Assignment 6 ({{< resource_link 6aaefa8e-3256-c239-4103-baba158176fa "PDF" >}})  
 On matter transport and reaction kinetics.
 
 Hamiltonian Forms

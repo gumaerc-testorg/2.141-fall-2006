@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
+parent_uid: null
 title: Projects
 uid: 49a83ce3-91da-c005-bb57-57953045fd12
 ---
@@ -35,8 +36,8 @@ The Airpot® is an adjustable dashpot. A sintered graphite piston slides in a gl
 Student Projects
 ----------------
 
-Pump Fault Detection and Diagnosis (FDD) Based on Electrical Startup Transient ([PDF]({{< baseurl >}}/resources/armstrng2141finl)) (Courtesy of Peter Armstrong. Used with permission.)
+Pump Fault Detection and Diagnosis (FDD) Based on Electrical Startup Transient ({{< resource_link 597c2ca8-8b00-705c-2436-1fc904289cd2 "PDF" >}}) (Courtesy of Peter Armstrong. Used with permission.)
 
-Parameterization, Analysis and Simulation of a Heat Gun ([PDF]({{< baseurl >}}/resources/heatgun_final)) (Courtesy of Thomas Bowers. Used with permission.)
+Parameterization, Analysis and Simulation of a Heat Gun ({{< resource_link 982aabf3-360d-00ca-5cd1-b28e887960d2 "PDF" >}}) (Courtesy of Thomas Bowers. Used with permission.)
 
-Stirling Engine ([PDF]({{< baseurl >}}/resources/byl_2141_final)) (Courtesy of Marten Byl. Used with permission.)
+Stirling Engine ({{< resource_link 9132279f-c5e7-e191-825a-d81df5cc85e4 "PDF" >}}) (Courtesy of Marten Byl. Used with permission.)
