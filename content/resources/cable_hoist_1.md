@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/db2b71
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cable_hoist_1.pdf
 uid: db2b7142-4316-a41f-0321-14b2aefa8755
 ---
 This resource contains description of review network modeling of physical systems also known as "lumped-parameter" modeling.
-

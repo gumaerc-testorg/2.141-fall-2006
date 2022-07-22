@@ -4,6 +4,7 @@ description: This resource contains the description of dependent energy storage 
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/fa456e0d5ca06c1147192717204d11bd_caus_depnd_storg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: caus_depnd_storg.pdf
 uid: fa456e0d-5ca0-6c11-4719-2717204d11bd
 ---
 This resource contains the description of dependent energy storage elements.
-

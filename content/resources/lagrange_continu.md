@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0dcd05
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lagrange_continu.pdf
 uid: 0dcd05df-7714-f8d2-1ea4-6a6b07e56535
 ---
 This resource contains the description of lagrange's equations.
-

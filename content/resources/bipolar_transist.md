@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/37f99f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: bipolar_transist.pdf
 uid: 37f99f99-2795-609a-21a8-78e612dca0bc
 ---
 This course describes amplifiers.
-

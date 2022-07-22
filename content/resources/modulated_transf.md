@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/dfb7d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: modulated_transf.pdf
 uid: dfb7d1ed-209d-a291-ee93-b7ec5bf41608
 ---
 This resource contains the description of nonlinear mechanical systems.
-

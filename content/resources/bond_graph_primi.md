@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/efc712
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bond_graph_primi.pdf
 uid: efc71251-8ad2-9aa8-e05b-ed932ee92595
 ---
 This resource contains the description of the basic bond graph primitives, its fundamental qualities and relations.
-

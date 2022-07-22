@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0e6a02
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pseudo_convectio.pdf
 uid: 0e6a02c5-a29b-5c09-2e21-f1d76689febb
 ---
 This resource contains the description of convection bonds and ?pseudo? bonds.
-

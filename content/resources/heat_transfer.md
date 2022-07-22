@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/5b5774
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: heat_transfer.pdf
 uid: 5b577476-0fca-05d9-8c89-ba06b88808d0
 ---
 This resource contains the description of haet transfer and the second law of thermodynamics.
-

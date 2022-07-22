@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1e6c6f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: work_to_heat_tra.pdf
 uid: 1e6c6f7d-d1e3-033e-1af5-93d1d28c1d6f
 ---
 This resource contains the description of work to heat transduction in thermo-fluid systems.
-

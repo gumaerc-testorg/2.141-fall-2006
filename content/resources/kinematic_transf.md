@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/301913
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: kinematic_transf.pdf
 uid: 30191310-b956-3710-f9e0-058ce896c85e
 ---
 This resource contains the description of kinematic transformation of mechanical behavior.
-

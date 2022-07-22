@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/19a8fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: entropy_producti.pdf
 uid: 19a8fbec-0c3f-9d83-e01f-6d6fe759bcc1
 ---
 This resource contains description of entropy production and nonlinearity.
-

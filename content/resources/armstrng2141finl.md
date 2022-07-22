@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/597c2c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: armstrng2141finl.pdf
 uid: 597c2ca8-8b00-705c-2436-1fc904289cd2
 ---
 Representative sample of student work in the Fall 2002 class. (Courtesy of Peter Armstrong. Used with permission.)
-

@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/30f2cb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reading_assign_5.pdf
 uid: 30f2cb98-7aa3-6634-a483-0f14a6cffd9e
 ---
 This resource contains the description of required and optional readings.
-

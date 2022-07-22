@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/09bbd0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: capstan_amplifie.pdf
 uid: 09bbd00a-d1a8-16a4-01f1-66e35fbaf231
 ---
 This resource describes capstan as a mechanical amplifier.
-

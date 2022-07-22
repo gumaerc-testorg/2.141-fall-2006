@@ -5,6 +5,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/9ad757
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solenoid.pdf
 uid: 9ad75710-9f95-9fbc-bb12-5e8d1d055e8c
 ---
 This resource contains the description of electromagnetic solenoid.
-

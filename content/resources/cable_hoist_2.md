@@ -7,6 +7,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/2595fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: cable_hoist_2.pdf
 uid: 2595fea5-2076-7d3f-65a5-3f2e0a1c0bfe
 ---
 This resource describes the bond graphs of the cable hoist models which help to develop insight about how the electrical R-C filter affects the mechanical system dynamics.
-

@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/60c65e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: subject_introduc.pdf
 uid: 60c65ea8-3046-56e8-d1e3-0c22fc7dd695
 ---
 This resource contains the description of modeling and simulation of dynamic systems.
-

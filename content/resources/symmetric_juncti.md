@@ -6,6 +6,7 @@ file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1b2d56
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: symmetric_juncti.pdf
 uid: 1b2d5601-a3e3-da75-9df2-70b4f2674e68
 ---
 This resource contains the description of junction elements in network models.
-
