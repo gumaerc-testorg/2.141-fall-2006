@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of nodicity.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/2ed0ea8681751629ad142eff33a0df23_nodicity.pdf
+file_size: 142226
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of electromagnetic solenoid.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/9ad757109f959fbcbb125e8d1d055e8c_solenoid.pdf
+file_size: 193051
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

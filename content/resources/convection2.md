@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource describes matter transport.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/4e457ff9dacb77596e2eb27558495888_convection2.pdf
+file_size: 175903
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
