@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of state variables and energy.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/24fe67f7083e5dca4ee58b13f920d031_energ_syst_order.pdf
+file_size: 33470
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the description of momentum-based fluid-mechanical
   power transduction.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/8539ea58a9dc40f9d79512e715864269_vacuum_cleaner.pdf
+file_size: 48256
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

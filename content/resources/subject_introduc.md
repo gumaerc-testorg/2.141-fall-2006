@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the description of modeling and simulation of
   dynamic systems.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/60c65ea8304656e8d1e30c22fc7dd695_subject_introduc.pdf
+file_size: 58880
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: 'This resource contains the description of
 
   required and optional readings.'
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/361d239787316b8a2000d918bf60ebcd_reading_assign_4.pdf
+file_size: 21871
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the description of kinematic transformation of
   mechanical behavior.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/30191310b9563710f9e0058ce896c85e_kinematic_transf.pdf
+file_size: 87419
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of ideal asymmetric junction elements.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/aeb5b4416b3d0ce69827f0b2c8c2c601_asymet_junctfoil.pdf
+file_size: 118761
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

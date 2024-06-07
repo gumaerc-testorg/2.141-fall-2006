@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the description of summary of basic bond graph
   elements.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/df2dcf09f657164bd022627d9e6a4daf_bondgraph_sumary.pdf
+file_size: 39549
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

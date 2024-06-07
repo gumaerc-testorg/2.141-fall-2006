@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of wheel.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/915a046fcb11e9ceb879650d9ab47416_wheel.pdf
+file_size: 72930
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
