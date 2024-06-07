@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the example of a non-oscillating second-order
   system.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/38357c2d60447d50f03da42a6c9433e0_slid_plate_examp.pdf
+file_size: 64633
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

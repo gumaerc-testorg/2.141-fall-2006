@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the description of some required readings.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/c1ba64e5f467d21edb7fd42ad27268bd_reading_assign_2.pdf
+file_size: 20056
 file_type: application/pdf
 learning_resource_types:
 - Readings

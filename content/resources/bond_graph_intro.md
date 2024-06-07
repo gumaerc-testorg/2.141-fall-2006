@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the description of bond graph notation for physical
   system models.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/71ca8916669d0aa6839ce780db9f5288_bond_graph_intro.pdf
+file_size: 144127
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

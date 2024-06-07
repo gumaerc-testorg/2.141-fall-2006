@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the example of ideal gas.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/79b25e0d882d1557089b34cac4db9489_ideal_gas.pdf
+file_size: 190750
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

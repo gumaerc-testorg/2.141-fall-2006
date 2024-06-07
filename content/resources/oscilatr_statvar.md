@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the choice of state variables.
 file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/d9679db03146747f90e4bdab083d92ba_oscilatr_statvar.pdf
+file_size: 93228
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
