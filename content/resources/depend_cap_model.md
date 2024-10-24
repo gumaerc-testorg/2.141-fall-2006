@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of causality and model formulation.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/8a4bd4f6148c234c16131d2543939f0e_depend_cap_model.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/8a4bd4f6148c234c16131d2543939f0e_depend_cap_model.pdf
 file_size: 121120
 file_type: application/pdf
 learning_resource_types: []
