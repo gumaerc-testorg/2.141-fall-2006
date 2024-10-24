@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the description of work to heat transduction in
   thermo-fluid systems.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1e6c6f7dd1e3033e1af593d1d28c1d6f_work_to_heat_tra.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1e6c6f7dd1e3033e1af593d1d28c1d6f_work_to_heat_tra.pdf
 file_size: 200098
 file_type: application/pdf
 learning_resource_types:

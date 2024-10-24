@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource describes capstan as a mechanical amplifier.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/09bbd00ad1a816a401f166e35fbaf231_capstan_amplifie.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/09bbd00ad1a816a401f166e35fbaf231_capstan_amplifie.pdf
 file_size: 75993
 file_type: application/pdf
 learning_resource_types:
