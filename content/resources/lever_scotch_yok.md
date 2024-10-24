@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the examples of rotation to translation.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/2679c84238f03d32199771c55da6570e_lever_scotch_yok.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/2679c84238f03d32199771c55da6570e_lever_scotch_yok.pdf
 file_size: 31515
 file_type: application/pdf
 learning_resource_types: []
