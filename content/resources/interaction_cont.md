@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains description of interaction control.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/4bd3caf3e58b45aa68ddc5ae239bbd8f_interaction_cont.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/4bd3caf3e58b45aa68ddc5ae239bbd8f_interaction_cont.pdf
 file_size: 238794
 file_type: application/pdf
 learning_resource_types:

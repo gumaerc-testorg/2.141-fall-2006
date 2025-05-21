@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of some recommended readings.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/d40027674e6a8783e0da147c12b756e3_reading_assign_1.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/d40027674e6a8783e0da147c12b756e3_reading_assign_1.pdf
 file_size: 21111
 file_type: application/pdf
 learning_resource_types:

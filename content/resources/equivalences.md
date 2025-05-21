@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of equivalences.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/aed00b641126587ba0adfae95ed5550b_equivalences.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/aed00b641126587ba0adfae95ed5550b_equivalences.pdf
 file_size: 284298
 file_type: application/pdf
 learning_resource_types: []

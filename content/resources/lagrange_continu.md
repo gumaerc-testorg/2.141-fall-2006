@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of lagrange's equations.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0dcd05df7714f8d21ea46a6b07e56535_lagrange_continu.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0dcd05df7714f8d21ea46a6b07e56535_lagrange_continu.pdf
 file_size: 91175
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of multi-domain modeling.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/cb735c47e19dd0c7f3f6a28e793dfd50_pump_model_1.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/cb735c47e19dd0c7f3f6a28e793dfd50_pump_model_1.pdf
 file_size: 137528
 file_type: application/pdf
 learning_resource_types:

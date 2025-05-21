@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of ideal dissipative elements.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/ad24e2d6b25fffe6da355492359c03e3_pure_dissipators.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/ad24e2d6b25fffe6da355492359c03e3_pure_dissipators.pdf
 file_size: 145814
 file_type: application/pdf
 learning_resource_types: []

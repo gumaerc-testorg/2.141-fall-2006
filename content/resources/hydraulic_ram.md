@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of hydraulic ram.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/815006fb290589611069f8240ea823dd_hydraulic_ram.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/815006fb290589611069f8240ea823dd_hydraulic_ram.pdf
 file_size: 120833
 file_type: application/pdf
 learning_resource_types: []
