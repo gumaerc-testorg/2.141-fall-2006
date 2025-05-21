@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of hamiltonian systems.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/23465fabca0d5de649a205d4f9480f90_oscillator_examp.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/23465fabca0d5de649a205d4f9480f90_oscillator_examp.pdf
 file_size: 200631
 file_type: application/pdf
 learning_resource_types: []

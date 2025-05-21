@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the examples of equivalences.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/fdcf948b55e473d1e7e815162d44e31f_induct_transform.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/fdcf948b55e473d1e7e815162d44e31f_induct_transform.pdf
 file_size: 48100
 file_type: application/pdf
 learning_resource_types: []

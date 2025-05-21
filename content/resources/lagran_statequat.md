@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of models of mechanical systems.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/e56749c2e2c74b9a2fcb8d57edf163dc_lagran_statequat.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/e56749c2e2c74b9a2fcb8d57edf163dc_lagran_statequat.pdf
 file_size: 92445
 file_type: application/pdf
 learning_resource_types: []

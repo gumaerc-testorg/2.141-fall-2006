@@ -2,7 +2,7 @@
 content_type: resource
 description: Representative sample of student work in the Fall 2002 class. (Courtesy
   of Thomas Bowers. Used with permission.)
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/982aabf3360d00ca5cd1b28e887960d2_heatgun_final.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/982aabf3360d00ca5cd1b28e887960d2_heatgun_final.pdf
 file_size: 503695
 file_type: application/pdf
 learning_resource_types:

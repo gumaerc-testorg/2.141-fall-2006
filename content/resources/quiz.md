@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of problem statements.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/3b02a87d929be1de39aeba4c2ba87324_quiz.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/3b02a87d929be1de39aeba4c2ba87324_quiz.pdf
 file_size: 56361
 file_type: application/pdf
 learning_resource_types: []

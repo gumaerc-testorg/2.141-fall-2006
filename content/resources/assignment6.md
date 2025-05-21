@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/e5bd49071436267fd1d98b939f94839f_assignment6.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/e5bd49071436267fd1d98b939f94839f_assignment6.pdf
 file_size: 84889
 file_type: application/pdf
 learning_resource_types:

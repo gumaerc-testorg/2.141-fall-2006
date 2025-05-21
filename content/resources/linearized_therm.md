@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of thermal damping.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/939b43bc6f87b1d21b6fc7620657142a_linearized_therm.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/939b43bc6f87b1d21b6fc7620657142a_linearized_therm.pdf
 file_size: 148426
 file_type: application/pdf
 learning_resource_types:

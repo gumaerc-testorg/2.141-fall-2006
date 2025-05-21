@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the Bernouill's Equation.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/05af3d598af097d170ee647587943683_bernoulli_resist.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/05af3d598af097d170ee647587943683_bernoulli_resist.pdf
 file_size: 250114
 file_type: application/pdf
 learning_resource_types:

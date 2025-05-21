@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the description of various symbols related to
   the bond graphs.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/fd49a2f0abadce43d6d56b32bf944af4_bg_not.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/fd49a2f0abadce43d6d56b32bf944af4_bg_not.pdf
 file_size: 25890
 file_type: application/pdf
 learning_resource_types: []

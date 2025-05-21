@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample questions from a student in the course with answers from the professor.
   Courtesy of Jooeun Ahn. Used with permission.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/665919b6c359810f3862691721836026_discussion_of_sy.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/665919b6c359810f3862691721836026_discussion_of_sy.pdf
 file_size: 29949
 file_type: application/pdf
 learning_resource_types:

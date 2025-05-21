@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course describes block diagrams, bond graphs and causality.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/90dee3b1e59e8661d519008362584609_block_diagrams_b.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/90dee3b1e59e8661d519008362584609_block_diagrams_b.pdf
 file_size: 205331
 file_type: application/pdf
 learning_resource_types:
