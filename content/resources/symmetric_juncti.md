@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the description of junction elements in network
   models.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1b2d5601a3e3da759df270b4f2674e68_symmetric_juncti.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/1b2d5601a3e3da759df270b4f2674e68_symmetric_juncti.pdf
 file_size: 48571
 file_type: application/pdf
 learning_resource_types:

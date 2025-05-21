@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of causality assignment.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/5da9f5c960bf8e5e42ce46f03dc3d024_caus_assignment2.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/5da9f5c960bf8e5e42ce46f03dc3d024_caus_assignment2.pdf
 file_size: 20102
 file_type: application/pdf
 learning_resource_types: []

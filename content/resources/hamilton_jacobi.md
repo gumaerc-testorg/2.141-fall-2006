@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course describes hamilton-jacobi theory.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/acefd95b3cf711c251ab55257bea8a9e_hamilton_jacobi.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/acefd95b3cf711c251ab55257bea8a9e_hamilton_jacobi.pdf
 file_size: 74956
 file_type: application/pdf
 learning_resource_types:

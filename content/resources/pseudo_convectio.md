@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the description of convection bonds and ?pseudo?
   bonds.
-file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0e6a02c5a29b5c092e21f1d76689febb_pseudo_convectio.pdf
+file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/0e6a02c5a29b5c092e21f1d76689febb_pseudo_convectio.pdf
 file_size: 246436
 file_type: application/pdf
 learning_resource_types:
