@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the description of ideal power sources.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/ea667e99e78e426747bba357c61f4dd5_ideal_pow_source.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/ea667e99e78e426747bba357c61f4dd5_ideal_pow_source.pdf
 file_size: 24624
 file_type: application/pdf
 learning_resource_types: []

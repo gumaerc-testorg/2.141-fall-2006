@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the description of magnetic electro-mechanical
   machines.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/c91a0747722f114e7d2725fae73fafa3_dcpmm_basics.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/c91a0747722f114e7d2725fae73fafa3_dcpmm_basics.pdf
 file_size: 75415
 file_type: application/pdf
 learning_resource_types: []
