@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains description of entropy production and nonlinearity.
-file: /courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/19a8fbec0c3f9d83e01f6d6fe759bcc1_entropy_producti.pdf
+file: /ol-ocw-studio-app/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/19a8fbec0c3f9d83e01f6d6fe759bcc1_entropy_producti.pdf
 file_size: 116886
 file_type: application/pdf
 learning_resource_types:
